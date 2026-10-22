@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.rexakinz.casefiles",
-    "sha256_cert_fingerprints": ["EE:CB:B0:7B:BD:5C:2C:00:1B:4B:2C:03:A8:EE:A5:17:47:90:AB:F4:7B:88:EA:48:21:A3:F6:B4:2D:5A:E9:B5"]
+    "sha256_cert_fingerprints": [
+      "22:86:4E:20:7B:C8:3F:F6:57:36:5E:95:1D:D2:A3:C7:F8:78:D3:93:95:04:7A:AD:A9:F9:FA:7A:47:91:BE:D3",
+      "EE:CB:B0:7B:BD:5C:2C:00:1B:4B:2C:03:A8:EE:A5:17:47:90:AB:F4:7B:88:EA:48:21:A3:F6:B4:2D:5A:E9:B5"
+    ]
   }
 }]
